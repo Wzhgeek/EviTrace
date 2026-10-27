@@ -2,7 +2,7 @@
 
 Code for **EviTrace: Evidence-Guided Requirements-to-Code Link Recovery for Collaborative Software Maintenance**.
 
-[Supplementary material (PDF)](supplementary/EviTrace_Supplementary_Material.pdf)
+[Supplementary material (PDF)](EviTrace_Supplementary_Material.pdf)
 
 EviTrace combines reusable code summaries, original source evidence, bilateral admission of external cases, and structured evidential reasoning. The final evaluation covers eTour, eAnci, iTrust, SMOS, LibEST, Albergate, Dronology, and Maven.
 
